@@ -4,6 +4,8 @@ SOLID 是面向对象设计的五个基本原则，帮助开发者创建更易�
 
 SOLID is an acronym for five fundamental principles of object-oriented design that help developers create more maintainable, scalable, and robust software systems.
 
+> **Note**: The code examples below are simplified for educational purposes to illustrate object-oriented concepts. They may not represent the most idiomatic JavaScript patterns but are designed to be clear and accessible across different programming backgrounds.
+
 ## Overview
 
 - **S** - Single Responsibility Principle (单一职责原则)
